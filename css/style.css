@@ -1,0 +1,22 @@
+body {
+    margin-top: 50px;
+}
+
+.jumbotron {
+    background-image: url(../img/bg-jumbotron.jpg);
+    background-size: cover;
+    max-height: 390px;
+}
+
+.jumbotron h1, .jumbotron p {
+    text-shadow: 2px 2px 5px rgba(0, 0, 0, .5);
+}
+
+.about {
+    min-height: 650px;
+}
+
+.portfolio {
+    background-color: #eaeaea;
+    min-height: 800px;
+}
